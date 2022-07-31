@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheSecretCoder22
+- 👀 I’m interested in programming and game design
+- 🌱 I’m currently learning python and pygame
+- 💻 I’m currently working on a series of python text based choose your own adventure game.
+- 🇬🇧I'm from the uk and a true brit
